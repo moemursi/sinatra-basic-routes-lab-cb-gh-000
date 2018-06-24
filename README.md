@@ -4,7 +4,7 @@
 
 The goal of this lab is to build multiple routes that render different text. You'll be coding your solution in `app.rb`.
 
-## Instructions
+## Instructionsk
 
 We know that to set up a homepage we write our route like this:
 
